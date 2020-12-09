@@ -1,0 +1,5 @@
+icoFoam.C  
+OutputMatrix/OutputSymMatrix.C
+OutputMatrix/OutputAsymMatrix.C
+
+EXE = newicoFoam
